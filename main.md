@@ -6,7 +6,7 @@ This wiki provides a collection of tools designed to assist Incas in streamlinin
 
 # Content
 
-1. External Tools
+1. [External Tools](./eternal_tools.md#external-tools)
     1. OSINT and Investigation Tools
         - Blackbird
         - SpiderFoot
