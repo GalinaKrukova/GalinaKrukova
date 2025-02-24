@@ -2,6 +2,8 @@
 
 This wiki provides a collection of tools designed to assist Incas in streamlining their work and tackling various tasks more efficiently. We have curated both internal and external tools in one centralized location, allowing everyone to easily search for services that best suit their needs. Whether you're looking for help with specific tasks or seeking to enhance productivity, these tools are here to support your efforts.
 
+If you’ve come across a cool tool, drop it in the [form](https://docs.google.com/forms/d/e/1FAIpQLSdx6T_UPZRrBnSSrE_ArL--5R0jv4358A8L0gqQM4tLQ-8zkA/viewform?usp=header), and we’ll add it to the Wiki! 🚀
+
 ---
 
 # Content
