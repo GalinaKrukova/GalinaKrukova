@@ -48,19 +48,19 @@ This wiki provides a collection of tools designed to assist Incas in streamlinin
         - [Sploitus](./external_tools.md#sploitus)
     6. [Leaks and Whistleblower Platforms](./external_tools.md#leaks-and-whistleblower-platforms)
         - [WikiLeaks](./external_tools.md#wikileaks)
-2. Internal Tools
-    1. SM connector
-    2. Classification tool
-    3. Geotagging
-    4. APIs
-        - Cross-Market Surveillance
-        - BRAD API
-        - RAD NLP
-        - Cryptocurrency Market Data
-        - Stablecoin Depeg Detection
-        - Scam and Fraud API
-    5. Dashboards
-        1. RAD (Real-time Anomaly Detection)
-        2. XMS (X-Market Surveillance)
-        3. Stablecoin Dashboard
-3. Useful links
+2. [Internal Tools](./internal_tools.md#internal-tools)
+    1. [SM connector](./internal_tools.md#sm-connector)
+    2. [Classification tool](./internal_tools.md#classification-tool)
+    3. [Geotagging](./internal_tools.md#geotagging)
+    4. [APIs](./internal_tools.md#apis)
+        - [Cross-Market Surveillance](./internal_tools.md#cross-market-surveillance)
+        - [BRAD API](./internal_tools.md#brad-api)
+        - [RAD NLP](./internal_tools.md#rad-nlp)
+        - [Cryptocurrency Market Data](./internal_tools.md#cryptocurrency-market-data)
+        - [Stablecoin Depeg Detection](./internal_tools.md#stablecoin-depeg-detection)
+        - [Scam and Fraud API](./internal_tools.md#scam-and-fraud-api)
+    5. [Dashboards](./internal_tools.md#dashboards)
+        1. [RAD (Real-time Anomaly Detection)](./internal_tools.md#rad-real-time-anomaly-detection)
+        2. [XMS (X-Market Surveillance)](./internal_tools.md#xms-x-market-surveillance)
+        3. [Stablecoin Dashboard](./internal_tools.md#stablecoin-dashboard)
+6. [Useful links](./useful_links.md#useful-links)
