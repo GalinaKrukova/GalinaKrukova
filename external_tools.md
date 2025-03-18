@@ -485,7 +485,7 @@ Contact your team lead for access.
 
 ### Dune Analytics
 
-Blockchain and Cryptocurrency Analysis tool | [Paid](https://dune.com/pricing) *(team subscription available)*
+Blockchain and Cryptocurrency Analysis tool | Free & [Paid](https://dune.com/pricing) *(team subscription available)*
 
 Contact your team lead for access.
 
