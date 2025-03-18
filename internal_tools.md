@@ -8,7 +8,7 @@ Internal tool
 
 **Basic Description:** SM Connector is an internal Inca tool that allows for scraping data from various social media platforms (Twitter, Telegram, Reddit). The collected data can then be further processed (classified, geotagged, visualized, etc.).
 
-**Website:** [https://1712n.github.io/inca-social-media-connector/](https://1712n.github.io/inca-social-media-connector/)
+**Link:** [https://1712n.github.io/inca-social-media-connector/](https://1712n.github.io/inca-social-media-connector/)
 
 **How it works:**
 
@@ -58,13 +58,13 @@ Internal tool
 - Locating users in restricted areas
 - Gaining insights into audience location
 
-## Labelling
+## Labeling
 
 **Person of contact:** Inga K
 
 **Basic Description:** Labeling script based on ChatGPT. It can be utilized for different classification scenarios based on prompt for the model.
 
-**Website:** [Google Drive](https://colab.research.google.com/drive/16pkr2OBT79kcU6ZBNHTlPyRsuCpSY_-D)
+**Link:** [Google Drive](https://colab.research.google.com/drive/16pkr2OBT79kcU6ZBNHTlPyRsuCpSY_-D)
 
 **How it works:**
 
