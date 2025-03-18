@@ -441,6 +441,8 @@ BreadCrumbs allows users to input a cryptocurrency address or transaction ID and
 
 Blockchain and Cryptocurrency Analysis tool | Free & [Paid](https://tokensniffer.readme.io/reference/pricing) *(team subscription available)*
 
+Contact your team lead for access.
+
 **Basic Description:** Token Sniffer is a smart contract scam scanner that monitors over 6 million tokens and has identified over 1.2 million scams across multiple blockchain networks. It provides automated scam detection, auditing, and metrics to help users assess the safety and legitimacy of cryptocurrency tokens.
 
 **Website:** [https://tokensniffer.com/](https://tokensniffer.com/)
