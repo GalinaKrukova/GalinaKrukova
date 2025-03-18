@@ -136,7 +136,7 @@ Internal tool
 
 **Basic Description:** The Inca Digital RAD API provides social media data on relevant documents related to crypto ecosystem entities and topics. The API supports a rolling 2 weeks of historical social media data, in addition to text search and topic filtering on all recorded documents.
 
-Currently supported topics include : downtime, legal_actions, security, hacker_attack, and withdrawals
+Currently supported topics include: downtime, legal_actions, security, hacker_attack, and withdrawals
 
 **Website:** [https://hub.inca.digital/builders-organization-rd-team/api/rad-nlp/](https://hub.inca.digital/builders-organization-rd-team/api/rad-nlp/)
 
@@ -144,7 +144,7 @@ Currently supported topics include : downtime, legal_actions, security, hacker_a
 
 This API currently supports a rolling 2 weeks worth of social media data, and can be searched historically using the start_date and end_date parameters. For data beyond the scope of 2 weeks, please contact us at support@inca.digital for all custom requests.
 
-Note that the use of the term document, refers to a tweet, reddit submission or any other general form of post/text recorded by our social media connectors.
+Note that the use of the term document, refers to a tweet, reddit submission, or any other general form of post/text recorded by our social media connectors.
 
 **Usage scenarios:**
 
