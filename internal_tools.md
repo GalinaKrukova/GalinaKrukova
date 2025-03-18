@@ -236,13 +236,15 @@ More info on API [here](https://drive.google.com/file/d/1ZOnwFMWGvBq0gTPtmaY0uEq
 
 **Splunk Dashboards:**
 
-1. [XMS Dashboard Demo](https://splunk.mithraslabs.com/en-US/app/search/xms_dashboard_demo?form.token_time_selector.earliest=1719360000&form.token_time_selector.latest=1719446400&form.assettype=spot&form.symbol=btc&form.base=usdt&form.marketvenue=ASCENDEX%22%2C%22BINANCE%22%2C%22BINANCEUS%22%2C%22BITFINEX%22%2C%22BITMEX%22%2C%22BITSTAMP%22%2C%22BYBIT%22%2C%22COINBASE%22%2C%22CRYPTOCOM%22%2C%22DELTA%22%2C%22DERIBIT%22%2C%22GATEIO%22%2C%22GEMINI%22%2C%22HTX%22%2C%22KRAKEN%22%2C%22KUCOIN%22%2C%22OKX%22%2C%22PHEMEX%22%2C%22POLONIEX%22%2C%22UPBIT&form.section=benford&form.trellisoption_benford=0&form.bin_size=5&form.trellisoption_volume=0&form.trellisoption_time=0) – This dashboard, created by XMS Team, serves as an overview of all available metrics.
-2. [XMS Metrics Example](https://splunk.mithraslabs.com/en-US/app/search/xms_metrics?form.filename=sample_dataset&form.dt_format=%25m%2F%25d%2F%25Y%20%25H%3A%25M) – This is an example dashboard built to show one use case for XMS data.
+- [XMS Dashboard Demo](https://splunk.mithraslabs.com/en-US/app/search/xms_dashboard_demo?form.token_time_selector.earliest=1719360000&form.token_time_selector.latest=1719446400&form.assettype=spot&form.symbol=btc&form.base=usdt&form.marketvenue=ASCENDEX%22%2C%22BINANCE%22%2C%22BINANCEUS%22%2C%22BITFINEX%22%2C%22BITMEX%22%2C%22BITSTAMP%22%2C%22BYBIT%22%2C%22COINBASE%22%2C%22CRYPTOCOM%22%2C%22DELTA%22%2C%22DERIBIT%22%2C%22GATEIO%22%2C%22GEMINI%22%2C%22HTX%22%2C%22KRAKEN%22%2C%22KUCOIN%22%2C%22OKX%22%2C%22PHEMEX%22%2C%22POLONIEX%22%2C%22UPBIT&form.section=benford&form.trellisoption_benford=0&form.bin_size=5&form.trellisoption_volume=0&form.trellisoption_time=0) – This dashboard, created by XMS Team, serves as an overview of all available metrics.
+- [XMS Metrics Example](https://splunk.mithraslabs.com/en-US/app/search/xms_metrics?form.filename=sample_dataset&form.dt_format=%25m%2F%25d%2F%25Y%20%25H%3A%25M) – This is an example dashboard built to show one use case for XMS data.
 
 ### Stablecoin Dashboard
 
 **Person of contact:** Kailee S
 
-**Basic Description:** This dashboard features some stablecoin metrics including market cap, XMS, mint/burn data, etc. It also has threat intelligence examples including geotagging, impersonations, scam analysis, fake tokens. All of these examples are for Ripple, but it is a good example of what we could do for other clients and projects.
+**Basic Description:** This dashboard features some stablecoin metrics including market cap, XMS, mint/burn data, etc. It also has threat intelligence examples including geotagging, impersonations, scam analysis, fake tokens. The threat intelligence examples are for Ripple, but it is a good example of what we could do for other clients and projects.
 
-**Website:** [https://splunk.mithraslabs.com/en-US/app/search/stablecoin_metrics_wip__ripple_marketing?form.start_date=2024-01-01&form.end_date=2025-01-23&form.mint_burn_stablecoin=*&form.stablecoin=*&form.marketplace=Kraken&form.pair=usdt-usd&form.granularity=1d](https://splunk.mithraslabs.com/en-US/app/search/stablecoin_metrics_wip__ripple_marketing?form.start_date=2024-01-01&form.end_date=2025-01-23&form.mint_burn_stablecoin=*&form.stablecoin=*&form.marketplace=Kraken&form.pair=usdt-usd&form.granularity=1d)
+**Splunk Dashboards:**
+
+- [Stablecoin Metrics and Ripple Threat Intelligence](https://splunk.mithraslabs.com/en-US/app/search/stablecoin_metrics_wip__ripple_marketing?form.start_date=2024-01-01&form.end_date=2025-01-23&form.mint_burn_stablecoin=*&form.stablecoin=*&form.marketplace=Kraken&form.pair=usdt-usd&form.granularity=1d)
