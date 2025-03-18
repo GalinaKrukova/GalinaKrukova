@@ -111,7 +111,7 @@ The Bellingcat OSM Search tool leverages data from OpenStreetMap, a collaborativ
 
 OSINT and Investigation Tools | Free
 
-**Basic Description:** The Twitter Account Detector is a Chrome extension offers a quick way to show all twitter accounts from the page its on. This extension helps you find Twitter/X accounts for the page its on so you can contact or follow them easily.
+**Basic Description:** The Twitter Account Detector is a Chrome extension that offers a quick way to show all twitter accounts from the page its on. This extension helps you find Twitter/X accounts for the page its on so you can contact or follow them easily.
 
 **Website:** [Twitter Account Detector Chrome Extension](https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck)
 
