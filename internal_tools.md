@@ -218,6 +218,8 @@ More info on API [here](https://drive.google.com/file/d/1ZOnwFMWGvBq0gTPtmaY0uEq
 
 ### RAD (Real-time Anomaly Detection)
 
+**Person of contact:** Nick G
+
 **Basic Description:** This dashboard uses social media data to detect and alert users to unusual activity in the following areas: downtime, hacker attacks, legal actions, withdrawals, and security issues. The dashboard monitors social media activity for a specified number of entities, including different crypto exchanges, cryptocurrencies, and banks. Social media data is collected from Twitter, Mastodon, Reddit, Telegram, and other social media platforms are currently being added.
 
 **Splunk dashboards:**
@@ -228,6 +230,8 @@ More info on API [here](https://drive.google.com/file/d/1ZOnwFMWGvBq0gTPtmaY0uEq
 
 ### XMS (X-Market Surveillance)
 
+**Person of contact:** Marina C
+
 **Basic Description:** This dashboard offers a comprehensive overview of market data, providing insights into market manipulations and other illicit activities involving specific pairs and exchanges. It detects manipulative practices such as Wash Trading, Spoofing, Layering, and Pump and Dump by analyzing key indicators, including abnormal volume distributions, unusual trade size clustering, trade timing anomalies, and first-digit distribution deviations. By leveraging metrics like tail exponent shifts, skewness and kurtosis, Student’s test for trade-size clustering, Kolmogorov-Smirnov tests for trade timing and first-digit distribution, as well as liquidity metrics such as VWAP, average spread distance, and order flow imbalance, the dashboard uncovers irregular trading behaviors and enhances transparency across markets.
 
 **Splunk Dashboards:**
@@ -236,6 +240,8 @@ More info on API [here](https://drive.google.com/file/d/1ZOnwFMWGvBq0gTPtmaY0uEq
 2. [XMS Metrics Example](https://splunk.mithraslabs.com/en-US/app/search/xms_metrics?form.filename=sample_dataset&form.dt_format=%25m%2F%25d%2F%25Y%20%25H%3A%25M) – This is an example dashboard built to show one use case for XMS data.
 
 ### Stablecoin Dashboard
+
+**Person of contact:** Kailee S
 
 **Basic Description:** This dashboard features some stablecoin metrics including market cap, XMS, mint/burn data, etc. It also has threat intelligence examples including geotagging, impersonations, scam analysis, fake tokens. All of these examples are for Ripple, but it is a good example of what we could do for other clients and projects.
 
