@@ -264,7 +264,7 @@ You.com enables users to conduct web searches while offering a unique feature th
 
 ### Intelligence X
 
-Search Tools | [Paid](https://intelx.io/product)
+Search Tools | Free & [Paid](https://intelx.io/product)
 
 **Basic Description:** Intelligence X is a search engine and data archive that enables users to search across various data sources, including the darknet (Tor, I2P), data leaks, and the public web. It supports searches by email, domain, IP address, CIDR, Bitcoin address, and more, providing access to information not typically indexed by standard search engines.
 
