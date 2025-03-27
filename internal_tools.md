@@ -188,32 +188,6 @@ Internal tool
 - Track stablecoins and prevent losses from depegging.
 - Trigger smart contracts when stablecoins depeg.
 
-### Scam and Fraud API
-
-**Person of contact:** Nick G
-
-Internal tool
-
-**Basic Description:** Digital Asset KYC and risk management stops at blockchain forensics, which is insufficient for multi-asset service providers and firms that provide crypto on and off ramps. Inca Digital provides the only digital asset focused KYC tool to identify people and companies that you shouldn’t do business with: from scammer shell companies to sanctioned Russian oligarchs. Identify counterparties involved in ransomware, phishing, extortion, pump & dump, hack, theft, and other fraudulent events as they are happening to support healthy counterparty risk management and investigations. Data includes the names of people and companies that are known scammers, as well as their physical addresses, wallet addresses, and more.
-
-**Website:** [https://hub.inca.digital/builders-organization-builders-organization-default/api/stablecoin-depeg-detection/](https://hub.inca.digital/builders-organization-builders-organization-default/api/stablecoin-depeg-detection/)
-
-**How it works:** 
-
-- At least one of the “Required” Query Parameter fields must be specified to receive a response.
-- Query Parameter fields use a regular expression (regex) match to look for any results which contain the specified characters within the text of values for the given field.
-- A minimum of 3 characters must be used when inputting Query Parameter fields.
-- Filtering by multiple Query Parameter fields will only return results which have a match for all specified values.
-- An empty json response [ ] will be returned for requests with no results
-
-**Usage scenarios:**
-
-- Exchanges use the tool to prevent onboarding users linked to scams, ransomware, or sanctioned entities, ensuring regulatory compliance and reducing AML risks.
-- Payment processors can assess counterparties in real-time, identifying those involved in fraud or theft, ensuring safer cross-border crypto transactions.
-- DeFi platforms use the tool to flag wallet addresses or entities linked to hacks or phishing, improving security and counterparty risk management.
-
-More info on API [here](https://drive.google.com/file/d/1ZOnwFMWGvBq0gTPtmaY0uEqNk7rE_jmc/view)
-
 ## Dashboards
 
 ### RAD (Real-time Anomaly Detection)
