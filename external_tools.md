@@ -111,7 +111,7 @@ The Bellingcat OSM Search tool leverages data from OpenStreetMap, a collaborativ
 
 OSINT and Investigation Tools | Free
 
-**Basic Description:** The Twitter Account Detector is a Chrome extension offers a quick way to show all twitter accounts from the page its on. This extension helps you find Twitter/X accounts for the page its on so you can contact or follow them easily.
+**Basic Description:** The Twitter Account Detector is a Chrome extension that offers a quick way to show all twitter accounts from the page its on. This extension helps you find Twitter/X accounts for the page its on so you can contact or follow them easily.
 
 **Website:** [Twitter Account Detector Chrome Extension](https://chrome.google.com/webstore/detail/twitter-account-detector/papcdbgfejihdinhieggiamjnkclhkck)
 
@@ -441,6 +441,8 @@ BreadCrumbs allows users to input a cryptocurrency address or transaction ID and
 
 Blockchain and Cryptocurrency Analysis tool | Free & [Paid](https://tokensniffer.readme.io/reference/pricing) *(team subscription available)*
 
+Contact your team lead for access.
+
 **Basic Description:** Token Sniffer is a smart contract scam scanner that monitors over 6 million tokens and has identified over 1.2 million scams across multiple blockchain networks. It provides automated scam detection, auditing, and metrics to help users assess the safety and legitimacy of cryptocurrency tokens.
 
 **Website:** [https://tokensniffer.com/](https://tokensniffer.com/)
@@ -463,6 +465,8 @@ Blockchain and Cryptocurrency Analysis tool | Free & [Paid](https://tokensniffer
 
 Blockchain and Cryptocurrency Analysis tool | [Paid](https://www.allium.so/) *(team subscription available)*
 
+Contact your team lead for access.
+
 **Basic Description:** Allium is a blockchain data platform that provides accurate, fast, and simple access to on-chain data. Supporting over 70 blockchains and offering more than 1,000 enriched schemas, Allium enables developers and analysts to build real-time applications and perform comprehensive data exploration.
 
 **Website:** [https://www.allium.so/](https://www.allium.so/)
@@ -481,7 +485,9 @@ Blockchain and Cryptocurrency Analysis tool | [Paid](https://www.allium.so/) *(t
 
 ### Dune Analytics
 
-Blockchain and Cryptocurrency Analysis tool | [Paid](https://dune.com/pricing) *(team subscription available)*
+Blockchain and Cryptocurrency Analysis tool | Free & [Paid](https://dune.com/pricing) *(team subscription available)*
+
+Contact your team lead for access.
 
 **Basic Description:** Dune Analytics is a community-driven platform offering free access to blockchain data and analytics. Users can create, share, and explore real-time dashboards covering various aspects of the crypto ecosystem, including DeFi, NFTs, and on-chain activities.
 

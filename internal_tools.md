@@ -8,7 +8,7 @@ Internal tool
 
 **Basic Description:** SM Connector is an internal Inca tool that allows for scraping data from various social media platforms (Twitter, Telegram, Reddit). The collected data can then be further processed (classified, geotagged, visualized, etc.).
 
-**Website:** [https://1712n.github.io/inca-social-media-connector/](https://1712n.github.io/inca-social-media-connector/)
+**Link:** [https://1712n.github.io/inca-social-media-connector/](https://1712n.github.io/inca-social-media-connector/)
 
 **How it works:**
 
@@ -58,13 +58,13 @@ Internal tool
 - Locating users in restricted areas
 - Gaining insights into audience location
 
-## Labelling
+## Labeling
 
 **Person of contact:** Inga K
 
 **Basic Description:** Labeling script based on ChatGPT. It can be utilized for different classification scenarios based on prompt for the model.
 
-**Website:** [Google Drive](https://colab.research.google.com/drive/16pkr2OBT79kcU6ZBNHTlPyRsuCpSY_-D)
+**Link:** [Google Drive](https://colab.research.google.com/drive/16pkr2OBT79kcU6ZBNHTlPyRsuCpSY_-D)
 
 **How it works:**
 
@@ -136,7 +136,7 @@ Internal tool
 
 **Basic Description:** The Inca Digital RAD API provides social media data on relevant documents related to crypto ecosystem entities and topics. The API supports a rolling 2 weeks of historical social media data, in addition to text search and topic filtering on all recorded documents.
 
-Currently supported topics include : downtime, legal_actions, security, hacker_attack, and withdrawals
+Currently supported topics include: downtime, legal_actions, security, hacker_attack, and withdrawals
 
 **Website:** [https://hub.inca.digital/builders-organization-rd-team/api/rad-nlp/](https://hub.inca.digital/builders-organization-rd-team/api/rad-nlp/)
 
@@ -144,7 +144,7 @@ Currently supported topics include : downtime, legal_actions, security, hacker_a
 
 This API currently supports a rolling 2 weeks worth of social media data, and can be searched historically using the start_date and end_date parameters. For data beyond the scope of 2 weeks, please contact us at support@inca.digital for all custom requests.
 
-Note that the use of the term document, refers to a tweet, reddit submission or any other general form of post/text recorded by our social media connectors.
+Note that the use of the term document, refers to a tweet, reddit submission, or any other general form of post/text recorded by our social media connectors.
 
 **Usage scenarios:**
 
@@ -218,6 +218,8 @@ More info on API [here](https://drive.google.com/file/d/1ZOnwFMWGvBq0gTPtmaY0uEq
 
 ### RAD (Real-time Anomaly Detection)
 
+**Person of contact:** Nick G
+
 **Basic Description:** This dashboard uses social media data to detect and alert users to unusual activity in the following areas: downtime, hacker attacks, legal actions, withdrawals, and security issues. The dashboard monitors social media activity for a specified number of entities, including different crypto exchanges, cryptocurrencies, and banks. Social media data is collected from Twitter, Mastodon, Reddit, Telegram, and other social media platforms are currently being added.
 
 **Splunk dashboards:**
@@ -228,15 +230,21 @@ More info on API [here](https://drive.google.com/file/d/1ZOnwFMWGvBq0gTPtmaY0uEq
 
 ### XMS (X-Market Surveillance)
 
+**Person of contact:** Marina C
+
 **Basic Description:** This dashboard offers a comprehensive overview of market data, providing insights into market manipulations and other illicit activities involving specific pairs and exchanges. It detects manipulative practices such as Wash Trading, Spoofing, Layering, and Pump and Dump by analyzing key indicators, including abnormal volume distributions, unusual trade size clustering, trade timing anomalies, and first-digit distribution deviations. By leveraging metrics like tail exponent shifts, skewness and kurtosis, Student’s test for trade-size clustering, Kolmogorov-Smirnov tests for trade timing and first-digit distribution, as well as liquidity metrics such as VWAP, average spread distance, and order flow imbalance, the dashboard uncovers irregular trading behaviors and enhances transparency across markets.
 
 **Splunk Dashboards:**
 
-1. [XMS Dashboard Demo](https://splunk.mithraslabs.com/en-US/app/search/xms_dashboard_demo?form.token_time_selector.earliest=1719360000&form.token_time_selector.latest=1719446400&form.assettype=spot&form.symbol=btc&form.base=usdt&form.marketvenue=ASCENDEX%22%2C%22BINANCE%22%2C%22BINANCEUS%22%2C%22BITFINEX%22%2C%22BITMEX%22%2C%22BITSTAMP%22%2C%22BYBIT%22%2C%22COINBASE%22%2C%22CRYPTOCOM%22%2C%22DELTA%22%2C%22DERIBIT%22%2C%22GATEIO%22%2C%22GEMINI%22%2C%22HTX%22%2C%22KRAKEN%22%2C%22KUCOIN%22%2C%22OKX%22%2C%22PHEMEX%22%2C%22POLONIEX%22%2C%22UPBIT&form.section=benford&form.trellisoption_benford=0&form.bin_size=5&form.trellisoption_volume=0&form.trellisoption_time=0) – This dashboard, created by XMS Team, serves as an overview of all available metrics.
-2. [XMS Metrics Example](https://splunk.mithraslabs.com/en-US/app/search/xms_metrics?form.filename=sample_dataset&form.dt_format=%25m%2F%25d%2F%25Y%20%25H%3A%25M) – This is an example dashboard built to show one use case for XMS data.
+- [XMS Dashboard Demo](https://splunk.mithraslabs.com/en-US/app/search/xms_dashboard_demo?form.token_time_selector.earliest=1719360000&form.token_time_selector.latest=1719446400&form.assettype=spot&form.symbol=btc&form.base=usdt&form.marketvenue=ASCENDEX%22%2C%22BINANCE%22%2C%22BINANCEUS%22%2C%22BITFINEX%22%2C%22BITMEX%22%2C%22BITSTAMP%22%2C%22BYBIT%22%2C%22COINBASE%22%2C%22CRYPTOCOM%22%2C%22DELTA%22%2C%22DERIBIT%22%2C%22GATEIO%22%2C%22GEMINI%22%2C%22HTX%22%2C%22KRAKEN%22%2C%22KUCOIN%22%2C%22OKX%22%2C%22PHEMEX%22%2C%22POLONIEX%22%2C%22UPBIT&form.section=benford&form.trellisoption_benford=0&form.bin_size=5&form.trellisoption_volume=0&form.trellisoption_time=0) – This dashboard, created by XMS Team, serves as an overview of all available metrics.
+- [XMS Metrics Example](https://splunk.mithraslabs.com/en-US/app/search/xms_metrics?form.filename=sample_dataset&form.dt_format=%25m%2F%25d%2F%25Y%20%25H%3A%25M) – This is an example dashboard built to show one use case for XMS data.
 
 ### Stablecoin Dashboard
 
-**Basic Description:** This dashboard features some stablecoin metrics including market cap, XMS, mint/burn data, etc. It also has threat intelligence examples including geotagging, impersonations, scam analysis, fake tokens. All of these examples are for Ripple, but it is a good example of what we could do for other clients and projects.
+**Person of contact:** Kailee S
 
-**Website:** [https://splunk.mithraslabs.com/en-US/app/search/stablecoin_metrics_wip__ripple_marketing?form.start_date=2024-01-01&form.end_date=2025-01-23&form.mint_burn_stablecoin=*&form.stablecoin=*&form.marketplace=Kraken&form.pair=usdt-usd&form.granularity=1d](https://splunk.mithraslabs.com/en-US/app/search/stablecoin_metrics_wip__ripple_marketing?form.start_date=2024-01-01&form.end_date=2025-01-23&form.mint_burn_stablecoin=*&form.stablecoin=*&form.marketplace=Kraken&form.pair=usdt-usd&form.granularity=1d)
+**Basic Description:** This dashboard features some stablecoin metrics including market cap, XMS, mint/burn data, etc. It also has threat intelligence examples including geotagging, impersonations, scam analysis, fake tokens. The threat intelligence examples are for Ripple, but it is a good example of what we could do for other clients and projects.
+
+**Splunk Dashboards:**
+
+- [Stablecoin Metrics and Ripple Threat Intelligence](https://splunk.mithraslabs.com/en-US/app/search/stablecoin_metrics_wip__ripple_marketing?form.start_date=2024-01-01&form.end_date=2025-01-23&form.mint_burn_stablecoin=*&form.stablecoin=*&form.marketplace=Kraken&form.pair=usdt-usd&form.granularity=1d)
