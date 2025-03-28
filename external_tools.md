@@ -394,27 +394,30 @@ Wallet Explorer aggregates and organizes Bitcoin transactions to identify connec
 - Investigating suspicious wallet activities and potential connections between addresses.
 - Analyzing Bitcoin transactions for research, compliance, or forensic purposes.
 
-### Bitcoin Abuse Database
+Sure, here's the rewritten version in markdown, now about [Chainabuse](https://www.chainabuse.com/):
 
-Blockchain and Cryptocurrency Analysis tool | Free
+### Chainabuse
 
-**Basic Description:** The Bitcoin Abuse Database is a platform that allows users to report and search for Bitcoin addresses associated with illegal activities, such as scams, ransomware, and extortion. It serves as a public ledger where individuals and organizations can identify and share information about Bitcoin addresses involved in fraudulent or malicious activities.
+Crypto Scam Reporting & Threat Intelligence Platform | Free
 
-**Website:** [Bitcoin Abuse Database](https://www.bitcoinabuse.com/)
+**Basic Description:**  
+Chainabuse is a platform for reporting, searching, and investigating addresses, scams, and malicious activity across multiple blockchains. Built by TRM Labs with support from Circle, Binance, Coinbase, and others, it serves as a community-driven database to flag and monitor crypto-related fraud and abuse.
+
+**Website:** [Chainabuse](https://www.chainabuse.com/)
 
 **How it works:**
 
-The Bitcoin Abuse Database collects reports of Bitcoin addresses used in illegal activities from users around the world: 
+Chainabuse collects and aggregates reports of abuse across various blockchains:
 
-- Users can search the database to check if a specific Bitcoin address has been reported for abuse.
-- The platform allows individuals to submit reports of abuse, providing details of the incident and the associated Bitcoin address.
-- This information is then made publicly available to help others avoid falling victim to similar scams.
+- Users can search for wallet addresses, URLs, domains, or social media accounts to see if they’ve been flagged for scams or fraud.
+- Anyone can submit a report describing fraudulent activity, linking the relevant address or online entity.
+- Reports are publicly viewable and help build a shared intelligence resource to alert others.
 
 **Usage scenarios:**
 
-- Checking if a Bitcoin address has been reported for involvement in scams or illegal activities.
-- Reporting a Bitcoin address associated with ransomware, extortion, or other criminal activities.
-- Investigating suspicious Bitcoin transactions by cross-referencing with the database.
+- Checking if a wallet address, website, or username has been reported for scams or illicit activity.
+- Submitting a report when encountering phishing, giveaway scams, fake airdrops, or impersonation.
+- Monitoring ongoing threats in the crypto space with real-time, community-submitted data.
 
 ### BreadCrumbs
 
