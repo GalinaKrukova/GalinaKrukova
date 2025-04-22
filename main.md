@@ -18,6 +18,7 @@ If you’ve come across a cool tool, drop it in the [form](https://docs.google.c
         - [Twitter Account Detector](./external_tools.md#twitter-account-detector)
         - [YouTube Comment Downloader](./external_tools.md#youtube-comment-downloader)
         - [Instant Data Scraper](./external_tools.md#instant-data-scraper)
+        - [OSINT Industries](./external_tools.md#osint-industries)
     2. [Search Engines and Alternative Search Tools](./external_tools.md#search-engines-and-alternative-search-tools)
         - [Searx](./external_tools.md#searx)
         - [DuckDuckGo](./external_tools.md#duckduckgo)
