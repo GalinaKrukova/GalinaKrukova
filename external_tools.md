@@ -175,6 +175,35 @@ OSINT and Investigation Tools | Free
 - Scraping business directories for contact information.
 - Monitoring product listings and stock availability.
 
+### OSINT Industries
+
+OSINT and Threat Intelligence Feeds | [Paid]([url](https://www.osint.industries/pricing)) *(team subscription available)*
+
+Contact your team lead for access.
+
+**Basic Description:**  
+OSINT Industries provides structured data feeds and APIs for threat intelligence and darknet monitoring. The service focuses on delivering actionable intelligence from high-risk sources such as darknet forums, breach data, and malware logs. It is designed for integration into existing investigative and cybersecurity workflows.
+
+**Website:** [www.osint.industries](https://www.osint.industries/)
+
+**How it works:**  
+
+OSINT Industries offers threat intelligence through data feeds and APIs that aggregate and structure information from various sources:
+
+- Darknet marketplaces and forums  
+- Credential leaks and breach databases  
+- Stealer malware logs with extracted credentials and data  
+- Threat actor profiles and cybercrime-related discussions  
+
+This data is enriched and organized to enable direct use in automated systems, SIEMs, and investigation tools.
+
+**Usage scenarios:**  
+
+- Monitoring darknet sources for leaked credentials or mentions of a specific target  
+- Enriching cyber incident reports with breach and credential leak data  
+- Detecting stolen data from malware logs relevant to an organization  
+- Tracking and profiling threat actors across darknet platforms  
+
 ## Search Engines and Alternative Search Tools
 
 ### Searx
